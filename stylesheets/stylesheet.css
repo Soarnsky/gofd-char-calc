@@ -1,18 +1,18 @@
 header {
   text-align: center;
-  background: url(http://i.imgur.com/gHtD4SR.png);
-  background-size: cover;
   margin: 10px 0;
   font-weight: 700;
-  color:#FFFFFF;
+  color: #222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
 
 #project_title {
   font-size: 70px;
+  color: #FFFFFF;
 }
 
 #project_tagline {
   font-size: 45px;
+  color: #FFFFFF;
 }
