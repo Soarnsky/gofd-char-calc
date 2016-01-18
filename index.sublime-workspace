@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Sublime Text 3/Humble Indie Bundle 14",
+		"/C/Users/Soarnsky/Documents/AH Hammer Guard Build",
+		"/G/UML/ps6/Makefile",
+		"/E/Education/91_305/Zhang_Kyle_hw1/Makefile",
+		"/E/Education/91_305/Zhang_Kyle_hw1/File 4",
+		"/E/Education/91_305/Zhang_Kyle_hw1/File 2.c",
+		"/E/Education/91_305/Zhang_Kyle_hw1/File 1",
+		"/E/Education/91_305/Zhang_Kyle_hw1/File 2",
+		"/E/Education/91_305/Zhang_Kyle_hw1/File 3",
+		"/E/Education/91_305/File 4",
+		"/E/Education/91_305/File 3",
+		"/E/Education/91_305/File 2",
+		"/E/Education/91_305/File 1",
+		"/C/Users/Soarnsky/Desktop/MultiWars2.bat",
+		"/C/Users/Soarnsky/Downloads/Nvidia Codes 30.txt",
+		"/C/Users/Soarnsky/Downloads/20.txt",
+		"/C/Users/Soarnsky/AppData/Local/SpyParty/SpyParty.prop",
+		"/C/Users/Soarnsky/AppData/Local/SpyParty/SpyParty-soarnsky.keytab",
+		"/C/Users/Soarnsky/AppData/Local/SpyParty/SpyParty-soarnsky.ccache",
+		"/C/Users/Soarnsky/Desktop/steamgifts.txt",
+		"/E/Education/91_204/ps5b/ps5b-readme.txt",
+		"/G/Chrome Extensions/Test Extension/manifest.json",
+		"/G/Chrome Extensions/Test Extension/popup.js",
+		"/G/Chrome Extensions/manifest.json",
+		"/G/Chrome Extensions/popup.html",
+		"/C/Users/Soarnsky/Documents/Steam_Web_Tools/cart-page.js",
+		"/C/Users/Soarnsky/Documents/Steam_Web_Tools/sendgift-page.js",
+		"/C/Users/Soarnsky/Documents/Steam_Web_Tools/steamcommunity.js",
+		"/C/Users/Soarnsky/Documents/Steam_Web_Tools/trade.js"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackg",
+			"_",
+			"&gt;",
+			"&amp;nbsp;",
+			"€",
+			".",
+			"€",
+			"https://store.steampowered.com/account/ackgift",
+			"https://store.steampowered.com/account/ackgif",
+			"SteamGameSwap",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgift",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgift",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgif",
+			"Base Grade Key",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgift",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgift/AA1A9D3E65",
+			"Base Grade Key",
+			" Base Grade Key\n",
+			"https://store.steampowered.com/account/ackgift",
+			"rom your friend Blueprint",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/accou",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgif",
+			"Base Grade Key",
+			"from your friend Son Goku",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgift/F48E891BE99AEF2F?redeemer=s.oarnsky.g.a.m.i.n.g%40gmail.com",
+			"https://store.steampowered.com/account/ackgift/1E1EBD85B5536826?redeemer=s.oarnsky.g.a.mi.ng%40gmail.com",
+			"https://store.steampowered.com/account/ackgift/457A97720B441E35?redeemer=s.oarnsky.g.a.m.ing%40gmail.com",
+			"https",
+			"https://store.steampowered.com/account/ackgift/F48E891BE99AEF2F?redeemer=s.oarnsky.g.a.m.i.n.g%40gmail.com",
+			"https://store.steampowered.com/account/ackgift/E53B6CDFF50D9001?redeemer=s.oarnsk.ygamin.g%40gmail.com",
+			"457A97720B441E35",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgi",
+			"<img src=\"http://cdn.kinguin.net/media",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ack",
+			"ttps://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgift",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgi",
+			"] ",
+			" ",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgif",
+			"ttps://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgif",
+			"\n",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/acc",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgift",
+			"Case Key",
+			"Base Grade Key",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgif",
+			"https://store.steampowered.com/account/ack",
+			"from your friend EliteFighter",
+			"Base Grade Key",
+			"https://store.steampowered.com/account/ackgift",
+			"https://store.steampowered.com/account/ackgif",
+			"F437889C12FE4366",
+			"70147CA39C37C44D",
+			"2F6478C7A353DB3A",
+			"https://store.steampowered.com/account/ackgift/2F6478C7A353DB3A?redeemer=so.a.rns.k.yg.am.i.ng%40gmail.com",
+			"https://store.steampowered.com/account/ackgift/2F6478C7A353DB3A?redeemer=so.a.rns.k.yg.am.i.ng%40gmail.com\nhttps://store.steampowered.com/account/ackgift/70147CA39C37C44D?redeemer=so.a.rns.ky.g.aming%40gmail.com\nhttps://store.steampowered.com/account/ackgift/F437889C12FE4366?redeemer=so.a.rns.k.yga.m.in.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/7353100688417D58?redeemer=so.a.rns.k.yga.m.ing%40gmail.com\nhttps://store.steampowered.com/account/ackgift/3425961A9DDDE45C?redeemer=so.a.rns.ky.g.am.i.ng%40gmail.com\nhttps://store.steampowered.com/account/ackgift/3FA6FCE87305CC3A?redeemer=so.a.rns.ky.g.ami.n.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/D91D795E70FF1468?redeemer=so.a.rns.ky.g.a.mi.n.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/0C5576FE90D0B26A?redeemer=so.a.rns.ky.ga.m.i.ng%40gmail.com\nhttps://store.steampowered.com/account/ackgift/E8A628411DF76777?redeemer=so.a.rns.k.yga.mi.ng%40gmail.com\nhttps://store.steampowered.com/account/ackgift/634D374D89312F37?redeemer=so.a.rns.ky.g.ami.ng%40gmail.com\nhttps://store.steampowered.com/account/ackgift/B6A160444EBD6633?redeemer=so.a.rns.ky.g.a.min.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/BA515832E52B6D19?redeemer=so.a.rns.k.ygam.in.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/37D511D507429F55?redeemer=so.a.rns.ky.g.a.m.i.n.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/A16302DDDAEDEC69?redeemer=so.a.rns.k.yg.ami.n.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/753F002617A92306?redeemer=so.a.rns.ky.ga.mi.ng%40gmail.com\nhttps://store.steampowered.com/account/ackgift/4726EC0D2F017A2F?redeemer=so.a.rns.k.yga.min.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/12C1098429C5E71A?redeemer=so.a.rns.k.ygam.i.n.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/4B7EAC46AE2CA80C?redeemer=so.a.rns.k.ygamin.g%40gmail.com\nhttps://store.steampowered.com/account/ackgift/EB004CC3F03FEE31?redeemer=so.a.rns.k.yg.ami.ng%40gmail.com\nhttps://store.steampowered.com/account/ackgift/3A60670975DE7D30?redeemer=so.a.rns.ky.g.a.m.ing%40gmail.com\nhttps://store.steampowered.com/account/ackgift/5749D5064B372E13?redeemer=so.a.rns.k.ygami.ng%40gmail.com\nhttps://store.steampowered.com/account/ackgift/380ECE62F2F6B920?redeemer=so.a.rns.k.ygam.ing%40gmail.com",
+			"https://store.steampowered.com/account/ackg",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ac",
+			"Offworld Trading Company:",
+			"Offworld Trading Company:\n2DJRQ-8LXWK-VCETV",
+			"Offworld Trading Company:",
+			"from your friend TheBlueprint",
+			"from your friend ♚Grim♚",
+			" TQO5NV2M",
+			"Deus Ex Collection:",
+			"H1Z1	\nGift",
+			"H1Z1	\nGift\nSent to ",
+			"https://store.steampowered.com/account/ack",
+			"https://store.steampowered.com/account/ackgi",
+			"https://store.steampowered.com/account/ackgift",
+			"https://store.steampowered.com/account/ackg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
