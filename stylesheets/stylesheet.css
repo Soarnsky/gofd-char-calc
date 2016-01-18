@@ -1,6 +1,8 @@
 header {
+  font-family: helvetica;
   text-align: center;
   background: url(http://i.imgur.com/gHtD4SR.png);
   background-size: cover;
   color: white;
+  border: 2px black;
 }
