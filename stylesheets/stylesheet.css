@@ -1,4 +1,6 @@
 header {
-  background: black;
+  text-align: center;
+  background: url(http://i.imgur.com/gHtD4SR.png);
+  background-size: cover;
   color: white;
 }
