@@ -2,7 +2,7 @@ header {
   text-align: center;
   margin: 10px 0;
   font-weight: 700;
-  background-color: #222222;
+  background-color: #333333;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -41,11 +41,13 @@ html {
 
 /* Using box shadows to create 3D effects */
 #calculator {
-  width: 325px;
+  width: 480px;
   height: auto;
   
   margin: 100px auto;
-  padding: 20px 20px 9px;
+  padding: 0px 20px 110px;
+  position: relative;
+
   
   background: #666666;
   background: linear-gradient(#666666, #555555);
@@ -53,26 +55,76 @@ html {
   box-shadow: 0px 4px #333333, 0px 10px 15px rgba(0, 0, 0, 0.2);
 }
 
+.nextlvl, .maxlvl {
+  top: 4px;
+  float: left;
+  width: 195px;
+  height: 36px;
+  margin: 10px;
+  position: relative;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2);
 
-/* Clear floats */
-.buttons {overflow: hidden;}
+  font-size: 17px;
+  line-height: 40px;
+  color: white;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  text-align: right;
+  letter-spacing: 1px;
+
+}
+
+.dd select {
+  float: left;
+
+  cursor: pointer;
+  position: relative;
+
+  background: white;
+  color: #888;
+  width: 100px;
+  height: 36px;
+  margin: 4px;
+  line-height: 36px;
+  border: 0px;
+  border-radius: 3px;
+  
+  -webkit-appearance: none;
+}
+
+.tb input {
+  float: left;
+  text-align: center;
+  position: relative;
+  display: inline;
+
+  background: white;
+  color: #888;
+  width: 100px;
+  height: 36px;
+  margin: 4px;
+  line-height: 36px;
+  border: 0px;
+  border-radius: 3px;
+}
 
 /* Applying same to the buttons */
-.buttons span {
+.button span {
   float: left;
-  position: relative;
-  top: 0;
   
   cursor: pointer;
   
   width: 100px;
   height: 36px;
-  
+  position: relative;
+
+
   background: white;
   border-radius: 3px;
   box-shadow: 0px 4px #333333, rgba(0, 0, 0, 0.2);
   
-  margin: 0 7px 11px 0;
+  margin: 4px;
   
   color: #888;
   line-height: 36px;
@@ -89,14 +141,14 @@ html {
 /* style different type of buttons (operators/evaluate/clear) differently */
 
 /* Some hover effects */
-.buttons span:hover {
+.button span:hover {
   background: #222222;
   box-shadow: 0px 4px #111111;
   color: white;
 }
 
 /* Simulating "pressed" effect on active state of the buttons by removing the box-shadow and moving the buttons down a bit */
-.buttons span:active {
+.button span:active {
   box-shadow: 0px 0px #111111;
   top: 4px;
 }
