@@ -1,11 +1,12 @@
 header {
-  font-family: helvetica;
   text-align: center;
   background: url(http://i.imgur.com/gHtD4SR.png);
   background-size: cover;
-  color: white;
-  padding: 70px 0px 10px 0px;
-  text-shadow: -4px 0 black, 0 4px black, 4px 0 black, 0 -4px black;
+  margin: 10px 0;
+  font-weight: 700;
+  color:#222222;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  letter-spacing: -1px;
 }
 
 #project_title {
