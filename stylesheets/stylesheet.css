@@ -7,11 +7,11 @@ header {
   padding: 80px 0px 20px 0px;
 }
 
-h1 {
+#project_title {
   font-size: 70px;
-  border: 2px black;
+  text-outline: 2px 2px black;
 }
-h2 {
+#project_tagline {
   font-size: 45px;
-  border: 2px black;
+  text-outline: 2px 2px black;
 }
