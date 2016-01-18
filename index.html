@@ -7,8 +7,6 @@
     <meta name="description" content="/r/GofD Character Enhancement Calculator : ">
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-    <script src="javascripts/main.js"></script>
 
     <script>
       $("#btn_calc").on("click", function() {
@@ -45,13 +43,15 @@
         </select>
       </div>
       <div class="tb">
-         <input placeholder="VIP LVL">
-         <input placeholder="CHAR LVL">
+         <input id="clvl" placeholder="CHAR LVL">
+         <input id="vlvl" placeholder="VIP LVL">
       </div>
       <div class="button">
          <span>CALCULATE</span>
       </div>
     </div>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script type= "text/javascript" src="javascripts/main.js"></script>
   </body>
 </html>
