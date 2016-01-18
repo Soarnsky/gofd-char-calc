@@ -1,3 +1,3 @@
-alert("JS working.");
+alert("JS pt 1.");
 
 
