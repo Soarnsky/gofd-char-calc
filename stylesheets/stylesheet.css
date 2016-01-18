@@ -16,3 +16,87 @@ header {
   font-size: 45px;
   color: #FFFFFF;
 }
+
+
+
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  /* Better text styling */
+  font: bold 14px Arial, sans-serif;
+}
+
+/* Finally adding some IE9 fallbacks for gradients to finish things up */
+
+/* A nice BG gradient */
+html {
+  height: 100%;
+  background: white;
+  background: radial-gradient(circle, #fff 20%, #ccc);
+  background-size: cover;
+}
+
+/* Using box shadows to create 3D effects */
+#calculator {
+  width: 325px;
+  height: auto;
+  
+  margin: 100px auto;
+  padding: 20px 20px 9px;
+  
+  background: #666666;
+  background: linear-gradient(#666666, #555555);
+  border-radius: 3px;
+  box-shadow: 0px 4px #333333, 0px 10px 15px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Clear floats */
+.buttons {overflow: hidden;}
+
+/* Applying same to the buttons */
+.buttons span {
+  float: left;
+  position: relative;
+  top: 0;
+  
+  cursor: pointer;
+  
+  width: 100px;
+  height: 36px;
+  
+  background: white;
+  border-radius: 3px;
+  box-shadow: 0px 4px #333333, rgba(0, 0, 0, 0.2);
+  
+  margin: 0 7px 11px 0;
+  
+  color: #888;
+  line-height: 36px;
+  text-align: center;
+  
+  /* prevent selection of text inside buttons */
+  user-select: none;
+  
+  /* Smoothing out hover and active states using css3 transitions */
+  transition: all 0.2s ease;
+}
+
+/* Remove right margins from operator buttons */
+/* style different type of buttons (operators/evaluate/clear) differently */
+
+/* Some hover effects */
+.buttons span:hover {
+  background: #222222;
+  box-shadow: 0px 4px #111111;
+  color: white;
+}
+
+/* Simulating "pressed" effect on active state of the buttons by removing the box-shadow and moving the buttons down a bit */
+.buttons span:active {
+  box-shadow: 0px 0px #111111;
+  top: 4px;
+}

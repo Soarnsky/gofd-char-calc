@@ -1,3 +1,7 @@
-alert("JS pt 1.");
+alert("JS pt 2.");
+
+$(".buttons span").on("click", function() {
+	alert("Clicked");
+});
 
 
