@@ -19,7 +19,10 @@ var rank_p = [30000, 48000, 66000, 84000, 102000,
 				120000, 138000, 156000, 174000, 192000,
 				210000, 228000, 246000, 264000, 282000,
 				300000, 318000, 336000, 354000]
-var rank_d = []
+var rank_d = [80000, 130000, 180000, 230000, 280000,
+                330000, 380000, 430000, 480000, 530000,
+                580000, 630000, 680000, 730000, 780000,
+                830000, 880000, 930000, 980000]
 
 $("#ddrank").change(function() {
 	rank = $(this).children(":selected").attr("value");
@@ -34,8 +37,8 @@ $(".button span").on("click", function() {
 		switch (rank) {
 
 			case "DIAMOND":
-				misc.innerHTML = "Sorry!";
-				maxlvl.innerHTML = "No DIAMOND data.";
+				misc.innerHTML = "Gold needed"
+				maxlvl.innerHTML = calcRankDiamond(lvl, vip);
 				break;
 
 			case "PLATINUM":
@@ -77,10 +80,17 @@ function between(n, min, max) {
 	return n >= min && n <= max;
 }
 
-/*function calcRankDiamond(l, v) {
-	for (i = )
+function calcRankDiamond(l, v) {
+	var sum = 0;
+	var discount = 1 - ((v-3)*0.05);
+
+	for (i = l; i <= rank_d.length; i++)
+	{
+	    sum += rank_d[i-1]*discount;
+	}
+
 	return 
-};*/
+};
 
 function calcRankPlatinum(l, v) {
 	var sum = 0;
