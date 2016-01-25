@@ -82,7 +82,16 @@ function between(n, min, max) {
 
 function calcRankDiamond(l, v) {
 	var sum = 0;
-	var discount = 1 - ((v-3)*0.05);
+	var discount;
+
+	if (v <= 3)
+	{
+		discount = 0;
+	}
+	else
+	{
+		discount = 1 - ((v-3)*0.05);
+	}
 
 	for (i = l; i <= rank_d.length; i++)
 	{
@@ -94,7 +103,17 @@ function calcRankDiamond(l, v) {
 
 function calcRankPlatinum(l, v) {
 	var sum = 0;
-	var discount = 1 - ((v-3)*0.05);
+	var discount;
+
+	if (v <= 3)
+	{
+		discount = 0;
+	}
+	else
+	{
+		discount = 1 - ((v-3)*0.05);
+	}
+
 
 	for (i = l; i <= rank_p.length; i++)
 	{
@@ -106,7 +125,17 @@ function calcRankPlatinum(l, v) {
 
 function calcRankGold(l, v) {
 	var sum = 0;
-	var discount = 1 - ((v-3)*0.05);
+	var discount;
+
+	if (v <= 3)
+	{
+		discount = 0;
+	}
+	else
+	{
+		discount = 1 - ((v-3)*0.05);
+	}
+
 
 	for (i = l; i <= rank_g.length; i++)
 	{
@@ -118,7 +147,17 @@ function calcRankGold(l, v) {
 
 function calcRank5(l, v) {
 	var sum = 0;
-	var discount = 1 - ((v-3)*0.05);
+	var discount;
+
+	if (v <= 3)
+	{
+		discount = 0;
+	}
+	else
+	{
+		discount = 1 - ((v-3)*0.05);
+	}
+
 
 	for (i = l; i <= rank_5.length; i++)
 	{
@@ -130,7 +169,17 @@ function calcRank5(l, v) {
 
 function calcRank4(l, v) {
 	var sum = 0;
-	var discount = 1 - ((v-3)*0.05);
+	var discount;
+
+	if (v <= 3)
+	{
+		discount = 0;
+	}
+	else
+	{
+		discount = 1 - ((v-3)*0.05);
+	}
+
 
 	for (i = l; i <= rank_4.length; i++)
 	{
@@ -142,7 +191,17 @@ function calcRank4(l, v) {
 
 function calcRank3(l, v) {
 	var sum = 0;
-	var discount = 1 - ((v-3)*0.05);
+	var discount;
+
+	if (v <= 3)
+	{
+		discount = 0;
+	}
+	else
+	{
+		discount = 1 - ((v-3)*0.05);
+	}
+
 
 	for (i = l; i <= rank_3.length; i++)
 	{
