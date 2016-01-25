@@ -86,7 +86,7 @@ function calcRankDiamond(l, v) {
 
 	if (v <= 3)
 	{
-		discount = 0;
+		discount = 1;
 	}
 	else
 	{
@@ -107,7 +107,7 @@ function calcRankPlatinum(l, v) {
 
 	if (v <= 3)
 	{
-		discount = 0;
+		discount = 1;
 	}
 	else
 	{
@@ -129,7 +129,7 @@ function calcRankGold(l, v) {
 
 	if (v <= 3)
 	{
-		discount = 0;
+		discount = 1;
 	}
 	else
 	{
@@ -151,7 +151,7 @@ function calcRank5(l, v) {
 
 	if (v <= 3)
 	{
-		discount = 0;
+		discount = 1;
 	}
 	else
 	{
@@ -173,7 +173,7 @@ function calcRank4(l, v) {
 
 	if (v <= 3)
 	{
-		discount = 0;
+		discount = 1;
 	}
 	else
 	{
@@ -195,7 +195,7 @@ function calcRank3(l, v) {
 
 	if (v <= 3)
 	{
-		discount = 0;
+		discount = 1;
 	}
 	else
 	{
