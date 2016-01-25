@@ -89,7 +89,7 @@ function calcRankDiamond(l, v) {
 	    sum += rank_d[i-1]*discount;
 	}
 
-	return 
+	return sum;
 };
 
 function calcRankPlatinum(l, v) {
